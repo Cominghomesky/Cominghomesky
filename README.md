@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Obot Glory
 - 👀 I’m interested in Working as a data analyst
-- 🌱 I’m currently learning Sql and Tableau-Already good in Excel and Power BI
-- 💞️ I’m looking to collaborate on Remote/Freelancing,Advance EXcel and Power BI
-- 📫 How to reach me-gloryobot80@gmail.com
+- 🌱 I’m currently learn SQl and PYTHON-Expertise(Excel,Power BI)
+- 💞️ I’m looking to collaborate on jobs-Remote/Freelancing,Advance EXcel and Power BI
+- 📫 How to reach me-gloryobot80@gmail.com / linkedin: https://wwww.linkedin.com/in/glory-obot-651272224
 - 😄 Pronouns:She,Her,Hers
-- ⚡ Fun fact:Reading,Dancing, Travelling
+- ⚡ Fun fact:Reading,Cooking,Travelling
 
 <!---
 Cominghomesky/Cominghomesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
