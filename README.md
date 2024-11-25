@@ -2,7 +2,7 @@
 - 👀 I’m interested in Working as a data analyst
 - 🌱 I’m currently learning SQl and PYTHON-Expertise(Excel,Power BI)
 - 💞️ I’m looking to collaborate on jobs-Remote/Freelancing,Advance EXcel and Power BI
-- 📫 How to reach me-gloryobot80@gmail.com / linkedin: https://wwww.linkedin.com/in/glory-obot-651272224
+- 📫 How to reach me- gloryobot80@gmail.com / linkedin: https://wwww.linkedin.com/in/glory-obot-651272224
 - 😄 Pronouns:She,Her,Hers
 - ⚡ Fun fact:Reading,Cooking,Travelling
 
